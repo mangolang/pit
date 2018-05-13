@@ -9,4 +9,5 @@ The name "pit" is based on the core of a Mango, which is called "pit" (although 
 
 
 
-.. _`Mango langauge`: https://mangolang.org/
+.. _`Mango language`: https://mangolang.org/
+
