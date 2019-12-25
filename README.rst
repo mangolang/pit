@@ -1,7 +1,7 @@
 Pit (Mango)
 ================================
 
-**Pit** is the standard library of the `Mango language`_.
+**Pit** is the standard library of the `Mango programming language`_.
 
 The Mango language itself is not finished, so there is no standard library yet. Have a look at the compiler_!
 
@@ -17,5 +17,5 @@ The Mango standard library is `Apache 2.0 licensed`_. For notes on how to contri
 .. _`behave`: https://github.com/mangolang/mango/blob/master/CODE_OF_CONDUCT.rst
 
 .. _compiler: https://github.com/mangolang/compiler
-.. _`Mango language`: https://mangolang.org/
+.. _`Mango programming language`: https://mangocode.org/
 
